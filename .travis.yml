@@ -4,6 +4,11 @@ cache:
   pip: true
   directories:
     - $HOME/pandoc
+
+branches:
+  only:
+    - source # only build source branch
+
 install:
   # Install binary pandoc from Rstudio
   # To use Pandoc, uncomment the following
@@ -16,7 +21,22 @@ install:
   - pandoc --version
   - pip install invoke
 
-script: cd src/;inv build
+script: 
+  - inv build
+
+after_success:
+  - git config --global user.email ${GIT_EMAIL}
+  - git config --global user.name ${GIT_NAME}
+  - git clone --quiet --branch=master https://${GH_TOKEN}@github.com/postpop/postpop.github.io master > /dev/null
+  - cd master
+  - cp -f $HOME/style.css .
+  - cp -f $HOME/index.html .
+  - cp -f $HOME/about.html .
+  - cp -f $HOME/read.html .
+  - cp -rf $HOME/pdf .
+  - git add .
+  - git commit -a -m "Travis CI autocommit from travis build ${TRAVIS_BUILD_NUMBER}"
+  - git push -fq origin master > /dev/null
 
 # env:
 #   global:
