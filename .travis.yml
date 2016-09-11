@@ -29,11 +29,11 @@ script:
   - git clone --quiet --branch=master https://${GH_TOKEN}@github.com/postpop/postpop.github.io master > /dev/null
   - cd master
   - ls
-  - cp -f $HOME/style.css .
-  - cp -f $HOME/index.html .
-  - cp -f $HOME/about.html .
-  - cp -f $HOME/read.html .
-  - cp -rf $HOME/pdf .
+  - cp -f ../style.css .
+  - cp -f ../index.html .
+  - cp -f ../about.html .
+  - cp -f ../read.html .
+  - cp -rf ../pdf .
   - git add .
   - git commit -a -m "Travis CI autocommit from travis build ${TRAVIS_BUILD_NUMBER}"
   - git push -fq origin master > /dev/null
