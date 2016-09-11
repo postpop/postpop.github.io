@@ -1,7 +1,7 @@
-language: python
+# language: python
 
 cache: 
-  pip: true
+  # pip: true
   directories:
     - $HOME/pandoc
 
@@ -19,16 +19,15 @@ install:
       -d $HOME/pandoc
   - chmod +x $HOME/pandoc/pandoc
   - pandoc --version
-  - pip install invoke
+  # - pip install invoke
 
 script: 
-  - inv build
-  - ls
+  - chmod +x ./build.sh
+  - ./build.sh
   - git config --global user.email ${GIT_EMAIL}
   - git config --global user.name ${GIT_NAME}
   - git clone --quiet --branch=master https://${GH_TOKEN}@github.com/postpop/postpop.github.io master > /dev/null
   - cd master
-  - ls
   - cp -f ../style.css .
   - cp -f ../index.html .
   - cp -f ../about.html .
