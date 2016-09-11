@@ -24,13 +24,11 @@ install:
 script: 
   - inv build
   - ls
-
-after_success:
-  - ls
   - git config --global user.email ${GIT_EMAIL}
   - git config --global user.name ${GIT_NAME}
   - git clone --quiet --branch=master https://${GH_TOKEN}@github.com/postpop/postpop.github.io master > /dev/null
   - cd master
+  - ls
   - cp -f $HOME/style.css .
   - cp -f $HOME/index.html .
   - cp -f $HOME/about.html .
