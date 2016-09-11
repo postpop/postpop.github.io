@@ -35,7 +35,7 @@ script:
   - cp -f ../read.html .
   - cp -rf ../pdf .
   - git add .
-  - git commit -a -m "Travis CI autocommit from travis build ${TRAVIS_BUILD_NUMBER}"
+  - git commit --allow-empty -a -m "Travis CI autocommit from travis build ${TRAVIS_BUILD_NUMBER}"
   - git push -fq origin master > /dev/null
 
 # env:
