@@ -13,6 +13,7 @@ Don Delillo - Zero K
 Ann Leckie - Ancillary justice   
 Maggie Nelson - The argonauts   
 Kim Stanley Robinson - Green earth       
+Jeff Vandermeer - Acceptance   
 
 ## 2015
 Ernest Cline - Ready player one    
