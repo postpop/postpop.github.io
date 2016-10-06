@@ -79,11 +79,11 @@ Intensity invariance properties of auditory neurons compared to the statistics o
 [__2010__, __Journal of Comparative Physiology A__, 196:285-297](http://www.springerlink.com/content/yqmqx3hg4533816p/) | [pdf](pdf/clemens_2010_intensity.pdf)
 
 ### Invited talks
-The evaluation of acoustic communication signals in Drosophila.    
-09/2016 DZG Tagung, Kiel, Germany,    
+Neural computations underlying acoustic communication in Drosophila.    
+09/2016 DZG Tagung (invited talk), Kiel, Germany,    
 09/2016 Humboldt-Universität zu Berlin, Germany.    
 
-Organization of adaptation in the auditory receptor neurons of _Drosophila_    
+Organization of adaptation in the auditory receptor neurons of _Drosophila_.    
 09/2016 Neural Coding workshop, Cologne, Germany,    
 09/2016 Bernstein Conference 2016, Berlin, Germany.    
 

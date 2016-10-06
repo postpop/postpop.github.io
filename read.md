@@ -11,6 +11,7 @@ Paul Beatty - The sellout
 Don Delillo - Underworld   
 Don Delillo - Zero K   
 Ann Leckie - Ancillary justice   
+Karan Mahajan - The association of small bombs   
 Maggie Nelson - The argonauts   
 Kim Stanley Robinson - Green earth       
 Jeff Vandermeer - Acceptance   
