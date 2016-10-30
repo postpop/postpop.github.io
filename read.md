@@ -7,7 +7,8 @@ author: Jan Clemens
 ## 2016
 J.G. Ballard - High-rise    
 Iain M Banks - Consider Phlebas   
-Paul Beatty - The sellout     
+Paul Beatty - The sellout    
+Becky Chambers - The long way to a small, angry planet   
 Don Delillo - Underworld   
 Don Delillo - Zero K   
 Ann Leckie - Ancillary justice   
@@ -119,4 +120,3 @@ Haruki Murakami - The wind-up bird chronicles
 David Foster Wallace - Infinite jest  
 
 Go back [home](index.html).
-
