@@ -36,6 +36,7 @@ script:
   - git add .
   - git commit --allow-empty -a -m "Travis CI autocommit from travis build ${TRAVIS_BUILD_NUMBER}"
   - git push -fq origin master > /dev/null
+  - rsync -ahz * janc:${PUPWD}@arizona.princeton.edu:~/public_html/
 
 # env:
 #   global:
