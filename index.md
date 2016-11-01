@@ -14,6 +14,10 @@ Michael Reichert, __Jan Clemens__, Michael Rumpoldt, Bernhard Ronacher
 Integration of sound localization cues in frogs and grasshoppers   
 in preparation 
 
+Philip Coen, __Jan Clemens__ (eq. contribution), David Mazumder, Mala Murthy   
+A novel song mode in _Drosophila melanogaster_   
+in preparation   
+
 __Jan Clemens__, Mala Murthy   
 Nonlinear coding of sound in the _Drosophila_ ear   
 in preparation    
@@ -21,6 +25,10 @@ in preparation
 __Jan Clemens__, Nofar Ozeri, Mala Murthy   
 Dynamic-range adaptation in _Drosophila_ auditory receptor neurons supports song pattern recognition   
 in preparation    
+
+__Jan Clemens__, Mala Murthy   
+The use of computational modeling to link sensory processing with behavior in _Drosophila_   
+to appear in _Decoding Structure and Function of Neural Circuits_
 
 Philip Coen, Marjorie Xie, __Jan Clemens__, Mala Murthy   
 Sensorimotor transformations underlying variability in song intensity during _Drosophila_ courtship   
