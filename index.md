@@ -28,8 +28,7 @@ in preparation
 
 __Jan Clemens__, Mala Murthy   
 The use of computational modeling to link sensory processing with behavior in _Drosophila_   
-To appear in: Celik, A., Wernet, M. _Decoding Neural Circuit Structure and Function: Cellular Dissection Using Genetic Model Organisms_. Springer. 2017.   
-[Peerj prepint](https://peerj.com/preprints/2720/) | [pdf](pdf/clemens_2017_chapter.pdf)
+__2017__, To appear in: Celik, A., Wernet, M. _Decoding neural circuit structure and function: Cellular dissection using genetic model organisms_. Springer  | [Peerj prepint](https://peerj.com/preprints/2720/), [pdf](pdf/clemens_2017_chapter.pdf)
 
 Philip Coen, Marjorie Xie, __Jan Clemens__, Mala Murthy   
 Sensorimotor transformations underlying variability in song intensity during _Drosophila_ courtship   
