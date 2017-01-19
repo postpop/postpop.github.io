@@ -24,7 +24,7 @@ in preparation
 
 __Jan Clemens__, Nofar Ozeri, Mala Murthy   
 Dynamic-range adaptation in _Drosophila_ auditory receptor neurons supports song pattern recognition   
-in preparation    
+in review    
 
 __Jan Clemens__, Mala Murthy   
 The use of computational modeling to link sensory processing with behavior in _Drosophila_   
