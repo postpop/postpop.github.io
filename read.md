@@ -4,6 +4,9 @@ author: Jan Clemens
 ---
 # Reading list
 
+## 2017
+C.A. Higgins - Lightless   
+
 ## 2016
 J.G. Ballard - High-rise    
 Iain M Banks - Consider Phlebas   
