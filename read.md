@@ -6,6 +6,7 @@ author: Jan Clemens
 
 ## 2017
 C.A. Higgins - Lightless   
+Liz Moore - The unseen world    
 
 ## 2016
 J.G. Ballard - High-rise    

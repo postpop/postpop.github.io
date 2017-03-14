@@ -20,7 +20,11 @@ in preparation
 
 __Jan Clemens__, Mala Murthy   
 Nonlinear coding of sound in the _Drosophila_ ear   
-in preparation    
+in preparation   
+
+__Jan Clemens__, Jennifer Aufderheide, Bernhard Ronacher   
+Evaluation of sensory cues for mating decisions in grasshoppers reveals influence of sexual selection   
+submitted    
 
 __Jan Clemens__, Nofar Ozeri, Mala Murthy   
 Dynamic-range adaptation in _Drosophila_ auditory receptor neurons supports song pattern recognition   
