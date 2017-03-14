@@ -22,7 +22,7 @@ __Jan Clemens__, Mala Murthy
 Nonlinear coding of sound in the _Drosophila_ ear   
 in preparation   
 
-__Jan Clemens__, Jennifer Aufderheide, Bernhard Ronacher   
+__Jan Clemens__, Jennifer Aufderheide (eq. contribution), Bernhard Ronacher   
 Evaluation of sensory cues for mating decisions in grasshoppers reveals influence of sexual selection   
 submitted    
 
