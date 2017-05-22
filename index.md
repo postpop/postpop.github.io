@@ -14,13 +14,17 @@ Michael Reichert, __Jan Clemens__, Michael Rumpoldt, Bernhard Ronacher
 Integration of sound localization cues in frogs and grasshoppers   
 in preparation 
 
-Philip Coen, __Jan Clemens__ (eq. contribution), David Mazumder, Mala Murthy   
+__Jan Clemens__, Mala Murthy   
+Nonlinear coding of sound in the _Drosophila_ ear   
+in preparation  
+
+__Jan Clemens__, Philip Coen (eq. contribution), David Mazumder, Mala Murthy   
 A novel song mode in _Drosophila melanogaster_   
 in preparation   
 
-__Jan Clemens__, Mala Murthy   
-Nonlinear coding of sound in the _Drosophila_ ear   
-in preparation   
+David Stern, __Jan Clemens__, Pip Coen, Adam Calhoun, Troy Shirangi, John Hogenesch, Ben Arthur, Mala Murthy   
+Reported Drosophila courtship song rhythms remain data analysis artifacts. A reply to Kyriacou et al (2017)   
+in review | [preprint](http://biorxiv.org/content/early/2017/05/20/140483) | [code](https://github.com/murthylab/noIPIcycles)
 
 __Jan Clemens__, Jennifer Aufderheide (eq. contribution), Bernhard Ronacher   
 Evaluation of sensory cues for mating decisions in grasshoppers reveals influence of sexual selection   
