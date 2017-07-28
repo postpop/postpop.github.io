@@ -5,9 +5,12 @@ author: Jan Clemens
 # Reading list
 
 ## 2017
+Elif Batuman - The idiot   
+Jeffrey Eugenides - Middlesex   
+M. John Harrison - Light   
 C.A. Higgins - Lightless  
 Liz Moore - The unseen world  
-Robert J. Richards and Lorraine Daston - Kuhn's Structure of Scientific Revolutions at Fifty  
+Robert J. Richards and Lorraine Daston - Kuhn's structure of scientific revolutions at fifty  
 Colson Whitehead - The intuitionist  
 
 ## 2016
@@ -125,4 +128,6 @@ William McNeill - Plagues and peoples
 Haruki Murakami - The wind-up bird chronicles  
 David Foster Wallace - Infinite jest  
 
-Go back [home](index.html).
+Go back [home][1].
+
+[1]:	index.html
