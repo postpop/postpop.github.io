@@ -3,9 +3,8 @@ title: about
 author: Jan Clemens
 ---
 
-This site was written in [markdown](http://daringfireball.net/projects/markdown/),  
-compiled and managed using a custom [pandoc](http://pandoc.org) and [travis ci](https://travis-ci.org),  
-and served through [github pages](https://pages.github.com). 
+This site was written in [markdown](http://daringfireball.net/projects/markdown/) and 
+compiled and managed using a custom [github pages](https://pages.github.com) and [jekyll](https://jekyllrb.com). 
 
 See my [reading list](read.html).
 
