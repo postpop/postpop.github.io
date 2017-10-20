@@ -28,7 +28,7 @@ in revision
 
 David Stern, __Jan Clemens__, Pip Coen, Adam Calhoun, Troy Shirangi, John Hogenesch, Ben Arthur, Mala Murthy   
 Experimental and statistical reevaluation provides no evidence for Drosophila courtship song rhythms   
-[__2017__, __PNAS__, 114(37):9978-9983](http://www.pnas.org/content/114/37/9978.abstract) | [pdf](pdf/Stern_2017_experimental.pdf), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/08/09/140483), [code&data](https://github.com/murthylab/noIPIcycles)    
+[__2017__, __PNAS__, 114(37):9978-9983](http://www.pnas.org/content/114/37/9978.abstract) | [pdf](pdf/stern_2017_experimental.pdf), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/08/09/140483), [code&data](https://github.com/murthylab/noIPIcycles)    
 
 __Jan Clemens__, Jennifer Aufderheide (eq. contribution), Bernhard Ronacher   
 Relative weighting of acoustic information during mating decisions in grasshoppers indicates signatures of sexual selection   
