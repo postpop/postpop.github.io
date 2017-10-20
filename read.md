@@ -5,13 +5,18 @@ author: Jan Clemens
 # Reading list
 
 ## 2017
+Nanni Ballestrini - We want everything    
 Elif Batuman - The idiot   
 Jeffrey Eugenides - Middlesex   
 M. John Harrison - Light   
-C.A. Higgins - Lightless  
-Liz Moore - The unseen world  
-Robert J. Richards and Lorraine Daston - Kuhn's structure of scientific revolutions at fifty  
-Colson Whitehead - The intuitionist  
+C.A. Higgins - Lightless   
+Tom McCarthy - Remainder   
+Ian McDonald - Luna - new moon   
+Liz Moore - The unseen world   
+Sylvain Neuvel - Sleeping giants    
+Robert J. Richards and Lorraine Daston - Kuhn's structure of scientific revolutions at fifty   
+Neal Stephenson & Nicole Galand - The rise and fall of DODO   
+Colson Whitehead - The intuitionist   
 
 ## 2016
 J.G. Ballard - High-rise  
