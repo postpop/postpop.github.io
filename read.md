@@ -1,4 +1,4 @@
---- 
+---
 title: reading list
 author: Jan Clemens
 ---
@@ -16,7 +16,7 @@ Ian McDonald - Luna - new moon
 Liz Moore - The unseen world   
 Sylvain Neuvel - Sleeping giants    
 Robert J. Richards and Lorraine Daston - Kuhn's structure of scientific revolutions at fifty   
-Neal Stephenson & Nicole Galand - The rise and fall of DODO   
+Neal Stephenson & Nicole Galland - The rise and fall of DODO   
 Colson Whitehead - The intuitionist   
 
 ## 2016
