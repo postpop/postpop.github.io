@@ -10,6 +10,7 @@ Elif Batuman - The idiot
 Jeffrey Eugenides - Middlesex   
 M. John Harrison - Light   
 C.A. Higgins - Lightless   
+László Krasznahorkai - Seiobo there below   
 Tom McCarthy - Remainder   
 Ian McDonald - Luna - new moon   
 Liz Moore - The unseen world   
