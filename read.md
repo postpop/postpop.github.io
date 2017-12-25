@@ -5,19 +5,22 @@ author: Jan Clemens
 # Reading list
 
 ## 2017
-Nanni Ballestrini - We want everything    
-Elif Batuman - The idiot   
-Jeffrey Eugenides - Middlesex   
-M. John Harrison - Light   
-C.A. Higgins - Lightless   
-László Krasznahorkai - Seiobo there below   
-Tom McCarthy - Remainder   
-Ian McDonald - Luna - new moon   
-Liz Moore - The unseen world   
-Sylvain Neuvel - Sleeping giants    
-Robert J. Richards and Lorraine Daston - Kuhn's structure of scientific revolutions at fifty   
-Neal Stephenson & Nicole Galland - The rise and fall of DODO   
-Colson Whitehead - The intuitionist   
+Nanni Ballestrini - We want everything  
+Elif Batuman - The idiot  
+Claire-Louise Bennett - Pond  
+Jeffrey Eugenides - Middlesex  
+M. John Harrison - Light  
+C.A. Higgins - Lightless  
+László Krasznahorkai - Seiobo there below  
+Stanislaw Lem - Cyberiad  
+Tom McCarthy - Remainder  
+Ian McDonald - Luna - new moon  
+Liz Moore - The unseen world  
+Sylvain Neuvel - Sleeping giants  
+Robert J. Richards and Lorraine Daston - Kuhn's structure of scientific revolutions at fifty  
+Neal Stephenson & Nicole Galland - The rise and fall of DODO
+Andy Weir - Artemis     
+Colson Whitehead - The intuitionist  
 
 ## 2016
 J.G. Ballard - High-rise  
