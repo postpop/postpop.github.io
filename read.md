@@ -5,16 +5,16 @@ author: Jan Clemens
 # Reading list
 
 ## 2018
-Isaac Asimov - Foundation
-Iain Banks - Player of games  
+Isaac Asimov - Foundation   
+Iain Banks - Player of games   
 Donald Barthelme - The dead father   
 Lisa Halliday - Asymmetry   
-Meg Howry - The wanderers
+Meg Howry - The wanderers   
 Ursula LeGuin - The lathe of heaven   
-Anna Lowenhaupt Tsing - The mushroom at the end of the world
-Tom McCarthy - Satin island
-Adam Ehrlich Sachs - Inherited disorders     
-Jeff Vandermeer - Borne  
+Anna Lowenhaupt Tsing - The mushroom at the end of the world   
+Tom McCarthy - Satin island   
+Adam Ehrlich Sachs - Inherited disorders    
+Jeff Vandermeer - Borne   
 
 ## 2017
 Nanni Ballestrini - We want everything  
