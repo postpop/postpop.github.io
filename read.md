@@ -4,6 +4,18 @@ author: Jan Clemens
 ---
 # Reading list
 
+## 2018
+Isaac Asimov - Foundation
+Iain Banks - Player of games  
+Donald Barthelme - The dead father   
+Lisa Halliday - Asymmetry   
+Meg Howry - The wanderers
+Ursula LeGuin - The lathe of heaven   
+Anna Lowenhaupt Tsing - The mushroom at the end of the world
+Tom McCarthy - Satin island
+Adam Ehrlich Sachs - Inherited disorders     
+Jeff Vandermeer - Borne  
+
 ## 2017
 Nanni Ballestrini - We want everything  
 Elif Batuman - The idiot  
@@ -19,7 +31,7 @@ Liz Moore - The unseen world
 Sylvain Neuvel - Sleeping giants  
 Robert J. Richards and Lorraine Daston - Kuhn's structure of scientific revolutions at fifty  
 Neal Stephenson & Nicole Galland - The rise and fall of DODO
-Andy Weir - Artemis     
+Andy Weir - Artemis  
 Colson Whitehead - The intuitionist  
 
 ## 2016
