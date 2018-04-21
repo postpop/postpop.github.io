@@ -30,9 +30,9 @@ Ian McDonald - Luna - new moon
 Liz Moore - The unseen world  
 Sylvain Neuvel - Sleeping giants  
 Robert J. Richards and Lorraine Daston - Kuhn's structure of scientific revolutions at fifty  
-Neal Stephenson & Nicole Galland - The rise and fall of DODO
-Andy Weir - Artemis  
-Colson Whitehead - The intuitionist  
+Neal Stephenson & Nicole Galland - The rise and fall of DODO   
+Andy Weir - Artemis   
+Colson Whitehead - The intuitionist   
 
 ## 2016
 J.G. Ballard - High-rise  
